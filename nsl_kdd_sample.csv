@@ -1,0 +1,6 @@
+duration,src_bytes,dst_bytes,wrong_fragment,urgent,label
+0,491,0,0,0,normal
+0,146,0,0,0,normal
+0,232,8153,0,0,neptune
+0,199,420,0,0,normal
+0,0,0,0,0,neptune
